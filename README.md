@@ -3,7 +3,7 @@
 Para comenzar a trabajar con este proyecto, sigue estos pasos:
 
 1. **Clona el Repositorio:**
-git clone <https://github.com/HarrisonHdez/tabla-de-pagos.git>
+git clone <https://github.com/HarrisonHdez/payment-table.git>
 
 2. **Instala las Dependencias:**
 ### `npm install`
